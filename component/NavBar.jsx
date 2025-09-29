@@ -30,6 +30,7 @@ export default function NavBar() {
         <li className='hover:text-amber-300 '> <Link to='/posts'>Posts</Link></li>
         <li className='hover:text-amber-300 '> <Link to='/country'>Country </Link></li>
         <li><Link to='/page'>TestPage</Link></li>
+        <li>Broncholy</li> 
       </ul>
     </div>
     
