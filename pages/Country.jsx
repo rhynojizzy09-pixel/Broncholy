@@ -90,7 +90,6 @@ export default function Country() {
                 ))
             }
             </div>
-
              <div>
               {
                 selectedCountry && (
